@@ -1,0 +1,6 @@
+{
+  "name": "TOONHUB - 3D Ice Cream Figurine Carousel",
+  "description": "A full-viewport 3D artisanal ice cream carousel featuring smooth synchronized crossfading, giant display typography, and tactile navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
